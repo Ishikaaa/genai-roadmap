@@ -10,7 +10,7 @@ A practical roadmap to learn Generative AI from the basics to the advanced.
 - Basic data handling & visualization
 
 ---
-## Stage 2: Machine Learning Basics
+## Stage 2: [Machine Learning Basics](https://github.com/Ishikaaa/genai-roadmap/blob/main/Machine%20Learning/README.md)
 - Data preprocessing (cleaning, scaling, encoding)
 - Supervised vs unsupervised learning
 - Basic ML models:
