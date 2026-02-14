@@ -1,72 +1,75 @@
-# Generative AI Roadmap
+# 🚀 Generative AI Roadmap
 
-A practical roadmap to learn Generative AI from the basics to the advanced.
-
----
-
-## Stage 1: Basic Language
-- Python basics (syntax, loops, functions, OOP)
-- Python libraries: numpy, pandas, matplotlib
-- Basic data handling & visualization
-
----
-## Stage 2: [Machine Learning Basics](https://github.com/Ishikaaa/genai-roadmap/blob/main/Machine%20Learning/README.md)
-- Data preprocessing (cleaning, scaling, encoding)
-- Supervised vs unsupervised learning
-- Basic ML models:
-  - Linear Regression
-  - Logistic Regression
-  - Decision Trees
-  - Random Forest
-  - KNN
-- Model evaluation (accuracy, precision, recall)
+A practical roadmap to learn Generative AI from fundamentals to production-level systems.
 
 ---
 
-## Stage 3: Deep Learning Fundamentals
-- Neural networks basics
-- Activation functions
-- Backpropagation concept
-- TensorFlow / PyTorch basics
-- Building simple neural networks
+## 📌 Legend
+
+🟢 Foundation Level — Core concepts & fundamentals  
+🔵 Production Level — Industry / advanced system-level knowledge  
+
+---
+
+# 🟢 Prerequisites
+
+## Stage 1: Python
+🔗 [Python](https://github.com/Ishikaaa/genai-roadmap/blob/main/Python/README.md)
+
+---
+
+## Stage 2: Machine Learning
+🔗 [Machine Learning Roadmap](https://github.com/Ishikaaa/genai-roadmap/blob/main/Machine%20Learning/README.md)
+
+---
+
+## Stage 3: Deep Learning
+🔗 [Deep Learning Roadmap](https://github.com/Ishikaaa/genai-roadmap/blob/main/Deep%20Learning/README.md)
 
 ---
 
 ## Stage 4: NLP Foundations
-- Text preprocessing
-- Tokenization & embeddings
-- RNNs, LSTMs basics
-- Transformers introduction
+🔗 [NLP Roadmap](https://github.com/Ishikaaa/genai-roadmap/blob/main/NLP/README.md)
 
 ---
 
-## Stage 5: Generative AI Core
-- Large Language Models (LLMs)
-- Prompt engineering
-- Hugging Face ecosystem
-- Using OpenAI / LLM APIs
+# 🚀 Generative AI (Core Focus)
+
+## 🟢 Stage 5: Generative AI Core
+
+- Transformers & Attention Mechanism  
+- Large Language Models (LLMs)  
+- Prompt Engineering  
+- Hugging Face Ecosystem  
+- Using OpenAI / LLM APIs  
 
 ---
 
-## Stage 6: Advanced GenAI
-- RAG (Retrieval Augmented Generation)
-- Vector databases
-- Fine-tuning models
-- AI agents & workflows
+## 🔵 Stage 6: Advanced GenAI (Production Level)
+
+- RAG (Retrieval Augmented Generation)  
+- Vector Databases  
+- Fine-tuning LLMs  
+- Hyperparameter Tuning  
+- LangChain  
+- AI Agents & Workflows  
+- LLM Evaluation Metrics  
 
 ---
 
-## Stage 7: Real-world Projects
-- Chatbot application
-- Document Q&A system
-- AI assistant project
-- Portfolio-ready projects
+## 🔵 Stage 7: Real-World Projects
+
+- Chatbot Application  
+- Document Q&A System  
+- AI Assistant  
+- End-to-End Deployment  
+- Portfolio-Level Production Projects  
 
 ---
 
-## Resources
-(To be added…)
+## 📚 Resources
+(To be added)
 
 ---
 
-⭐ This roadmap will be updated regularly.
+⭐ This roadmap will be updated regularly as the Generative AI ecosystem evolves.
