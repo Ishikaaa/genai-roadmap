@@ -36,19 +36,20 @@ A practical roadmap to learn Generative AI from fundamentals to production-level
 # 🚀 Generative AI (Core Focus)
 
 ## 🟢 Stage 5: Generative AI Core
-
 - Transformers & Attention Mechanism  
 - Large Language Models (LLMs)  
-- Prompt Engineering  
-- Hugging Face Ecosystem  
+- Prompt Engineering
+- Embeddings
+- Prompt Engineering (Zero-shot, Few-shot, Chain-of-Thought)
+- Basic LLM Evaluation (Accuracy, BLEU, ROUGE Basics)
 - Using OpenAI / LLM APIs  
 
 ---
 
 ## 🔵 Stage 6: Advanced GenAI (Production Level)
 
-- RAG (Retrieval Augmented Generation)  
-- Vector Databases  
+● RAG (Retrieval Augmented Generation)  
+○ Vector Databases  
 - Fine-tuning LLMs  
 - Hyperparameter Tuning  
 - LangChain  
@@ -71,5 +72,6 @@ A practical roadmap to learn Generative AI from fundamentals to production-level
 (To be added)
 
 ---
+
 
 ⭐ This roadmap will be updated regularly as the Generative AI ecosystem evolves.
