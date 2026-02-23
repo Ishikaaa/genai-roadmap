@@ -7,7 +7,7 @@ A practical roadmap to learn Generative AI from fundamentals to production-level
 ## 📌 Legend
 
 🟢 Foundation Level — Core concepts & fundamentals  
-🔵 Production Level — Industry / advanced system-level knowledge  
+🔵 Production Level — Advanced system-level knowledge  
 
 ---
 
