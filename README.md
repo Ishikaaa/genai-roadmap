@@ -48,8 +48,8 @@ A practical roadmap to learn Generative AI from fundamentals to production-level
 
 ## 🔵 Stage 6: Advanced GenAI (Production Level)
 
-● RAG (Retrieval Augmented Generation)  
-○ Vector Databases  
+- RAG (Retrieval Augmented Generation)  
+- Vector Databases  
 - Fine-tuning LLMs  
 - Hyperparameter Tuning  
 - LangChain  
@@ -73,5 +73,12 @@ A practical roadmap to learn Generative AI from fundamentals to production-level
 
 ---
 
+## 💬 Feedback & Suggestions
+
+If you have suggestions to improve this roadmap:
+- Open an Issue in this repository
+- Or connect with me on LinkedIn: [ishika-garg-ai](https://www.linkedin.com/in/ishika-garg-ai/)
+
+Your feedback helps improve this for everyone 🚀
 
 ⭐ This roadmap will be updated regularly as the Generative AI ecosystem evolves.
