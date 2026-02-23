@@ -33,7 +33,7 @@ A practical roadmap to learn Generative AI from fundamentals to production-level
 
 ---
 
-# 🚀 Generative AI (Core Focus)
+# 🚀 Generative AI 
 
 ## 🟢 Stage 5: Generative AI Core
 - Transformers & Attention Mechanism  
@@ -46,7 +46,7 @@ A practical roadmap to learn Generative AI from fundamentals to production-level
 
 ---
 
-## 🔵 Stage 6: Advanced GenAI (Production Level)
+## 🔵 Stage 6: Advanced GenAI
 
 - RAG (Retrieval Augmented Generation)  
 - Vector Databases  
