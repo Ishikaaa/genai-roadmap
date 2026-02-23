@@ -36,25 +36,73 @@ A practical roadmap to learn Generative AI from fundamentals to production-level
 # 🚀 Generative AI 
 
 ## 🟢 Stage 5: Generative AI Core
-- Transformers & Attention Mechanism  
-- Large Language Models (LLMs)  
-- Prompt Engineering
-- Embeddings
-- Prompt Engineering (Zero-shot, Few-shot, Chain-of-Thought)
-- Basic LLM Evaluation (Accuracy, BLEU, ROUGE Basics)
-- Using OpenAI / LLM APIs  
+
+### 📌 Transformers
+- Architecture of Transformers
+- Self-Attention, Multi-Head Attention
+- Encoder vs Decoder vs Encoder-Decoder
+
+### 📌 Large Language Models (LLMs)
+- Definition
+- Limitations of LLMs
+
+### 📌 Prompt Engineering
+- Definition
+- Types of Prompting (like - Zero Shot, Few Shot, Chain of Thought, Role Prompting,...)
+
+### 📌 Embeddings
+- Definition
+- Types of Embeddings(Word Embedding, Sentence Embedding, Token Embedding, ...)
+
+### 📌 Basic LLM Evaluation
+- Accuracy (Classification Use Cases)
+- BLEU Score
+- ROUGE Score
+- Human Evaluation
+- LLM as Judge
+
+### 📌 LLM Hallicunation
+- Definition
+- Why hallucinations happen
+- Types of hallucinations (Factual, Logical, Fabricated Citations)
+- How to reduce hallucinations
 
 ---
 
 ## 🔵 Stage 6: Advanced GenAI
 
-- RAG (Retrieval Augmented Generation)  
-- Vector Databases  
-- Fine-tuning LLMs  
-- Hyperparameter Tuning  
-- LangChain  
-- AI Agents & Workflows  
-- LLM Evaluation Metrics  
+### 📌 RAG (Retrieval Augmented Generation)
+- Definition
+- RAG Architecture
+- Re-Ranking
+
+### 📌 Vector Databases
+- Definition
+- Types of Vector Databases (FAISS, chromaDB, Pinecode)
+    - Definition
+    - Which one to use when
+    - pros and cons
+- Similarity Search (Cosine, Dot Product, Euclidean)
+
+### 📌 Fine-Tuning LLMs
+- Definition
+- RAG vs Fine-Tuning
+    - Which one to use when
+- Optimized Techniques (LoRA, QLoRA, PEFT)
+- Dataset Preparation
+
+### 📌 Hyperparameter Tuning
+- Definition
+- Fine-Tuning vs Hyperparameter Tuning
+- Different Hyperparameters (Learning Rate, Temperature, top-p, top-k, ...)
+    - Definition of every Hyperparameter
+    - What is the range value
+    - How to select the value of that hyperparameter
+
+### 📌 LangChain
+- Definition
+- What all things it can it do?
+- RAG Pipeline using LangChain
 
 ---
 
