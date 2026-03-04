@@ -38,7 +38,7 @@ A practical roadmap to learn Generative AI from fundamentals to production-level
 ## 🟢 Stage 5: Generative AI Core
 
 ### 📌 Transformers
-- (Architecture of Transformers)[https://www.youtube.com/watch?v=SMZQrJ_L1vo&t=4630s]
+- [Architecture of Transformers](https://www.youtube.com/watch?v=SMZQrJ_L1vo&t=4630s)
 - Self-Attention, Multi-Head Attention
 - Encoder vs Decoder vs Encoder-Decoder
 
